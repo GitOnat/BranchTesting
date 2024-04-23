@@ -8,5 +8,8 @@ public class Main {
 
         myDog.makeSound();
         myCat.makeSound();
+
+        myDog.eat("Dog Food");
+        myCat.eat("Cat Food");
     }
 }
